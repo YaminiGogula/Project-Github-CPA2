@@ -58,7 +58,7 @@ Power BI dashboard to visualize key city metrics.
 
 
 ### 🌐 Let's Connect & Collaborate!
-- **LinkedIn:** [Yamini Gogula](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [Yamini Gogula](https://www.linkedin.com/in/yamini-gogula-2925ab111?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - **Email:** yaminigogula95@gmail.com
 
 
